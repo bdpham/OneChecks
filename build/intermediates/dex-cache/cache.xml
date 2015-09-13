@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/rigo/AndroidStudioProjects/SwipeRefreshListFragment/Application/libs/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/home/rigo/AndroidStudioProjects/SwipeRefreshListFragment/Application/build/intermediates/pre-dexed/debug/retrofit-1.9.0-417ba8dab059221e8cb0b794e07d38514bad3986.jar" />
+    </item>
+
+</items>
